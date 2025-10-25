@@ -11,7 +11,7 @@
      "restart": "pm2 restart gifted"
     },
   "author": "Gifted Tech",
-  "license": "GPL-3.0 license",
+  "license": "MIT",
   "dependencies": {
     "baileys": "^7.0.0-rc.6",
     "qrcode": "^1.5.3",
